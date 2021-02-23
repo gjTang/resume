@@ -1,6 +1,6 @@
 # Resume
 
-<img alt="프로필 사진" src="https://raw.githubusercontent.com/gjTang/personal/master/me.jpeg" width="200">
+<img alt="프로필 사진" src="https://raw.githubusercontent.com/gjTang/personal/master/me.jpeg?token=AOXBNZWJMH2Y7UNRYXFKZD3AGUGTA" width="200">
 
 ## Intro
 * Name: 양현승
